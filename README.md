@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://www.canva.com/design/DAGFj7uWDms/tPPIyMUcJ0zuH9ba_iAgcQ/view?utm_content=DAGFj7uWDms&utm_campaign=designshare&utm_medium=link&utm_source=editor)] -->
 <h1 align="center">Hi 👋, I'm Harshaa Vardhana KV</h1>
 <h3 align="center">I am a Certified App developer and Gen AI expert, Blockchain enthusiast, Finance Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvharsha" alt="kvharsha" /></a> </p>
 
