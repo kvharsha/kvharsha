@@ -36,9 +36,13 @@
 
 <img src="assets/profile.jpeg" width="220" style="border-radius: 50%; border: 4px solid #52b788;" alt="Harshaa Vardhana KV" />
 
-<br><br>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kvharsha&style=for-the-badge&color=52b788&label=PROFILE+VIEWS)
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="220" alt="Coding Animation"/>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/...
 
 </td>
 <td width="65%" valign="middle">
