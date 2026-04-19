@@ -180,12 +180,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                  TROPHIES                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
+<!-- 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kvharsha&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kvharsha&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
@@ -209,38 +209,49 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-PINNs_%7C_DRL_%7C_LLMs-95d5b2?style=flat-square&logo=pytorch&logoColor=white)
 ![IEEE Member](https://img.shields.io/badge/IEEE-Published_Author-00629B?style=flat-square&logo=ieee&logoColor=white)
 
+<div align="center">
+
+```text
+╔═══════════════════════════════════════════════════════════════════╗
+║   📡  IEEE ICSET 2025  ·  Kuala Lumpur, Malaysia  ·  Dec 2025    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   DRL-based Navigation of Mobile Robot                           ║
+║   in Unknown Environment                                         ║
+║                                                                   ║
+║   ▸ Framework  :  Double Deep Q-Network (DDQN)                   ║
+║   ▸ Domain     :  Autonomous Robotics + Reinforcement Learning   ║
+║   ▸ Core Idea  :  End-to-end policy for shortest-path            ║
+║                   navigation in dynamic, unknown environments    ║
+║   ▸ Outcome    :  Maximised cumulative reward, minimal steps     ║
+║   ▸ Stack      :  Python  ·  PyTorch  ·  TensorFlow  ·  NumPy   ║
+║                                                                   ║
+║   [ 15th Intl. Conference on System Engineering & Technology ]   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
-
-<br>
-
-<table align="center" border="0" width="90%">
-<tr>
-<td>
-┌─────────────────────────────────────────────────────────────────────┐
-│  📡  IEEE ICSET 2025  ·  Kuala Lumpur, Malaysia  ·  Dec 2025        │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  DRL-based Navigation of Mobile Robot in Unknown Environment        │
-│                                                                     │
-│  ▸ Framework  :  Double Deep Q-Network (DDQN)                       │
-│  ▸ Domain     :  Autonomous Robotics + Reinforcement Learning       │
-│  ▸ Core Idea  :  End-to-end policy for shortest-path navigation     │
-│                   in dynamic, obstacle-rich unknown environments    │
-│  ▸ Outcome    :  Maximised cumulative reward with minimal steps     │
-│  ▸ Stack      :  Python · PyTorch · TensorFlow · NumPy              │
-│                                                                     │
-│  [ 15th International Conference on System Engineering & Tech ]     │
-└─────────────────────────────────────────────────────────────────────┘
-</td>
-</tr>
-</table>
-
-<br>
 
 <div align="center">
 
-[![IEEE Paper](https://img.shields.io/badge/📄_Read_Paper-IEEE_ICSET_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
-[![Research Repo](https://img.shields.io/badge/💻_Code_Repo-DRL_Robot_Nav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvharsha)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a2a&height=2&section=header" width="70%"/>
+
+<br>
+
+<!-- Animated stat pills -->
+![Conference](https://img.shields.io/badge/🏛_Conference-IEEE_ICSET_2025-00629B?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Venue-Kuala_Lumpur,_Malaysia-2d6a4f?style=for-the-badge)
+![Method](https://img.shields.io/badge/⚙_Method-DDQN_Framework-52b788?style=for-the-badge)
+![Status](https://img.shields.io/badge/📄_Status-Published-95d5b2?style=for-the-badge&labelColor=1a3a2a)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=400&color=52B788&center=true&vCenter=true&width=680&lines=🧠+Policy+learned+purely+from+environment+interaction...;📉+Reward+maximised+across+10%2C000%2B+training+episodes...;🗺️+Zero+prior+map+knowledge+—+fully+autonomous+navigation...;🏁+Shortest+path+computed+in+real-time+via+DDQN+policy...;⚡+Deployed+on+ROS+simulation+with+dynamic+obstacles...)](https://git.io/typing-svg)
+
+<br>
+
+[![IEEE Paper](https://img.shields.io/badge/📄_Read_Paper-IEEE_ICSET_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11283908)
+[![Research Repo](https://img.shields.io/badge/💻_Code_Repo-DRL_Robot_Nav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvharsha/RL_Mobile_Navigation)
 
 <br>
 
