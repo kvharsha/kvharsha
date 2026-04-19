@@ -326,8 +326,6 @@ If my work sparked an idea, helped your project, or you just vibe with what I'm 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Harshaa_codes)
 
-> ☝️ **Setup tip:** Register at [buymeacoffee.com](https://www.buymeacoffee.com) and replace `kvharsha` with your actual handle.
-
 </div>
 
 ---

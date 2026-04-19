@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule:
