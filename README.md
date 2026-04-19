@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=52B788&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Gen+AI+Researcher+%40+IEEE+OSPI+2026;🦾+Deep+Reinforcement+Learning+Practitioner;🛡️+Cybersecurity+%26+Malware+Analysis+Enthusiast;🌐+Full-Stack+Engineer+%7C+MERN+%7C+Flutter;⛓️+Blockchain+Explorer+%7C+Finance+Analyst;🚀+Published+IEEE+Author+%7C+IIT+Madras+BS;✨+Building+Things+That+Actually+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=52B788&center=true&vCenter=true&multiline=false&width=750&lines=∂%2F∂x+%5B+Applied+Mathematician+%5D;🤖+Deep+Learning+%26+Gen+AI+Researcher;📊+Quantitative+Research+%7C+PINNs+%7C+DRL;🦾+IEEE+Published+Author+%40+ICSET+2025;🛡️+Cybersecurity+%26+Systems+Thinker;🌐+Full-Stack+Engineer+%7C+MERN+%7C+Flutter;⛓️+Blockchain+Explorer+%7C+Finance+Analyst)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,8 +77,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvharsha/kvharsha/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kvharsha/kvharsha/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> ℹ️ **Setup tip:** Add the [GitHub Actions snake workflow](https://github.com/Platane/snk) to auto-generate this in your profile repo.
 
 </div>
 
@@ -188,6 +186,66 @@
 ## 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=kvharsha&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   RESEARCH PUBLICATIONS                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🔬 Research & Publications
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="80%"/>
+
+<br>
+
+<!-- Animated badge row -->
+![Applied Maths](https://img.shields.io/badge/Applied_Mathematics-Practitioner-52b788?style=flat-square&logo=wolfram&logoColor=white)
+![Quantitative Research](https://img.shields.io/badge/Quantitative_Research-Active-2d6a4f?style=flat-square&logo=researchgate&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-PINNs_%7C_DRL_%7C_LLMs-95d5b2?style=flat-square&logo=pytorch&logoColor=white)
+![IEEE Member](https://img.shields.io/badge/IEEE-Published_Author-00629B?style=flat-square&logo=ieee&logoColor=white)
+
+</div>
+
+<br>
+
+<table align="center" border="0" width="90%">
+<tr>
+<td>
+┌─────────────────────────────────────────────────────────────────────┐
+│  📡  IEEE ICSET 2025  ·  Kuala Lumpur, Malaysia  ·  Dec 2025        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  DRL-based Navigation of Mobile Robot in Unknown Environment        │
+│                                                                     │
+│  ▸ Framework  :  Double Deep Q-Network (DDQN)                       │
+│  ▸ Domain     :  Autonomous Robotics + Reinforcement Learning       │
+│  ▸ Core Idea  :  End-to-end policy for shortest-path navigation     │
+│                   in dynamic, obstacle-rich unknown environments    │
+│  ▸ Outcome    :  Maximised cumulative reward with minimal steps     │
+│  ▸ Stack      :  Python · PyTorch · TensorFlow · NumPy              │
+│                                                                     │
+│  [ 15th International Conference on System Engineering & Tech ]     │
+└─────────────────────────────────────────────────────────────────────┘
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+[![IEEE Paper](https://img.shields.io/badge/📄_Read_Paper-IEEE_ICSET_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![Research Repo](https://img.shields.io/badge/💻_Code_Repo-DRL_Robot_Nav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvharsha)
+
+<br>
+
+<!-- Research interests animated ticker -->
+![Research Interests](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=95D5B2&center=true&vCenter=true&width=700&lines=Research+Areas+→+Physics-Informed+Neural+Networks+(PINNs);Stochastic+Differential+Equations+%7C+Numerical+Methods;Deep+Reinforcement+Learning+%7C+DDQN+%7C+Policy+Gradient;Natural+Language+Processing+%7C+RAG+%7C+Legal+AI;Quantitative+Finance+%7C+Time-series+Modelling;Distributed+Systems+%7C+Kafka+%7C+Tile-based+Processing)
 
 </div>
 
