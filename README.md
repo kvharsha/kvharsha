@@ -42,8 +42,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/...
-
 </td>
 <td width="65%" valign="middle">
 
@@ -61,6 +59,10 @@
 
 🌐 **Portfolio:** [kvharshaavardhana.uk](https://kvharshaavardhana.uk)
 📄 **Resume:** [View Here](https://github.com/kvharsha/kvharsha/blob/main/assets/Harshaa_Vardhana_KV_Resume.pdf)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kvharsha&style=for-the-badge&color=52b788&label=PROFILE+VIEWS)
 
 </td>
 </tr>
